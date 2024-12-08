@@ -1,0 +1,9 @@
+instructions to print 1 leg
+repeat 6 times for the full robot
+
+3 base of motor
+3 first joint bottom
+3 first joint clip
+1 full motor mount
+2 joint motor mount
+1 leg tip
